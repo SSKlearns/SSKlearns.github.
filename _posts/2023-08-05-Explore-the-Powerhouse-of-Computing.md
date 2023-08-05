@@ -6,8 +6,6 @@ thumbnail-img: /assets/posts/post2/thumbnail.png
 tags: [CPU, GPU, TPU, Quantum Computing, System Architecture, AI]
 ---
 
-## Introduction
-
 In the realm of modern computing, three fundamental processing units stand out as the driving force behind the incredible technological advancements we witness today - CPU, GPU, and TPU. Each of these units possesses unique characteristics, serving diverse purposes in different scenarios. In this post, we'll explore the world of these processing units, exploring their individual strengths, weaknesses, and applications. Additionally, we will also touch upon the groundbreaking technology of quantum computing and how it compares to classical computing units. So, let's buckle up and embark on this enlightening journey!
 
 ## CPU - The Versatile Workhorse
