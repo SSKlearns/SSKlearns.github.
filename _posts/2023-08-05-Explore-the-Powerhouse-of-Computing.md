@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring the Powerhouses of Computing
-subtitle: Understanding CPU, GPU, TPU, and the Quantum Revolution
+subtitle: CPU, GPU, TPU, and the Quantum Revolution
 thumbnail-img: /assets/posts/post2/thumbnail.png
 tags: [CPU, GPU, TPU, Quantum Computing, System Architecture, AI]
 ---
